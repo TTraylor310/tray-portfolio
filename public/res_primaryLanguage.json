@@ -52,7 +52,7 @@
       {
         "title": "CF Work",
         "startDate": "2022",
-        "description": "Individual projects of Odd Products and Salmon Cookies. Odd Products, ",
+        "description": "Individual projects of Odd Products and Salmon Cookies. Odd Products, which provided the user the ability to vote for a picture 25 times. After 25 votes the page will display bar graph with local storage for views and picks. Salmon Cookies was my first time dipping my toes in DOM manipulation. I enjoyed the relationship and was great point to get used to that in React.",
         "images": [
           "images/Odd_Products.png",
           "images/Salmon_Cookies.png"
@@ -60,16 +60,8 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
