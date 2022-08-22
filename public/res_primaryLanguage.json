@@ -39,7 +39,7 @@
         "startDate": "2022",
         "description": "Group Project to give suggest songs and movies with supporting quote and references based on form data input. I was responsible for writing JavaScript that would return pre determined songs/movies/quotes/references. I designed the data to fit what the front end half of the team was designing for. Very fun project for dynamic teamwork and defined roles.",
         "images": [
-          "FINAL-Mood_Playlists.jpg"
+          "images/FINAL-Mood_Playlists.jpg"
         ],
         "url": "https://github.com/Team-Baby/Gold-Diggers",
         "technologies": [
@@ -54,8 +54,8 @@
         "startDate": "2022",
         "description": "Individual projects of Odd Products and Salmon Cookies. Odd Products, ",
         "images": [
-          "./Odd_Products.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/Odd_Products.jpg",
+          "images/Salmon_Cookies.png"
         ],
         "url": "https://github.com",
         "technologies": [
