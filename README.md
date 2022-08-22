@@ -1,3 +1,5 @@
-# Modify this portfolio
+# Tim Traylor
 
-Make it your own! 
+## Welcome to My Page
+
+### [Here is the Page actually](https://ttray-portfolio-rep.netlify.app/)
