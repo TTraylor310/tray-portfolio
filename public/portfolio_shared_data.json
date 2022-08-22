@@ -1,20 +1,15 @@
 {
     "basic_info": {
       "name": "Tim Traylor",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Nuclear Electrician turned Software Engineer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/ttraylor310",
           "class": "fab fa-github"
-        },
-        {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "cheesin.jpg"
     },
     "skills": {
       "icons": [
