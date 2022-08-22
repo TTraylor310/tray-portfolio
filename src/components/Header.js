@@ -4,7 +4,7 @@ import Nav from 'react-bootstrap/Nav'
 import { LinkContainer } from "react-router-bootstrap";
 
 class Header extends Component {
-  titles = [];
+  titles = ['Nuclear Electrician turned Software Engineer'];
 
   constructor() {
     super();
@@ -106,7 +106,7 @@ class Header extends Component {
               <h1 className="mb-0">
                 {name}
               </h1>
-              <div className="title-container">
+              <div className="-container">
                 <HeaderTitleTypeAnimation />
               </div>
               
