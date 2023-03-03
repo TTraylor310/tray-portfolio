@@ -1,105 +1,90 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "In 2022 I became a software developer. I/'ve always had a technical background. At 21, I joined the Navy and worked on submarines. Eventually I became the Nuclear Electrician Chief for the sub. Had some of the greatest experiences that were filled with dynamic problem solving centering around team mission and goals. In 2017 I separated from the Navy and worked for King County until deciding I needed a new challenge. So I became a Full-Stack JavaScript Developer. I/'ve enjoyed the similarities of complexness centering around the team environment so far and am excited for opportunities to learn and grow in this field.",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "In 2022 I became a software developer. I/'ve always had a technical background. At 21, I joined the Navy and worked on submarines. Eventually I became the Nuclear Electrician Chief for the sub. Had some of the greatest experiences that were filled with dynamic problem solving centering around team mission and goals. In 2017 I separated from the Navy and worked for King County until deciding I needed a new challenge. So I became a Full-Stack JavaScript Developer. I/'ve enjoyed the similarities of complexness centering around the team environment so far and am excited for opportunities to learn and grow in this field.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Animal Shelter",
+      "startDate": "2020",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Mood Support",
-        "startDate": "2022",
-        "description": "Group Project to give suggest songs and movies with supporting quote and references based on form data input. I was responsible for writing JavaScript that would return pre determined songs/movies/quotes/references. I designed the data to fit what the front end half of the team was designing for. Very fun project for dynamic teamwork and defined roles.",
-        "images": [
-          "images/FINAL-Mood_Playlists.png"
-        ],
-        "url": "https://github.com/Team-Baby/Gold-Diggers",
-        "technologies": [
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "CF Work",
-        "startDate": "2022",
-        "description": "Individual projects of Odd Products and Salmon Cookies. Odd Products, which provided the user the ability to vote for a picture 25 times. After 25 votes the page will display bar graph with local storage for views and picks. Salmon Cookies was my first time dipping my toes in DOM manipulation. I enjoyed the relationship and was great point to get used to that in React.",
-        "images": [
-          "images/Odd_Products.png",
-          "images/Salmon_Cookies.png"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Mood Support",
+      "startDate": "2022",
+      "description": "Group Project to give suggest songs and movies with supporting quote and references based on form data input. I was responsible for writing JavaScript that would return pre determined songs/movies/quotes/references. I designed the data to fit what the front end half of the team was designing for. Very fun project for dynamic teamwork and defined roles.",
+      "images": ["images/FINAL-Mood_Playlists.png"],
+      "url": "https://github.com/Team-Baby/Gold-Diggers",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "CF Work",
+      "startDate": "2022",
+      "description": "Individual projects of Odd Products and Salmon Cookies. Odd Products, which provided the user the ability to vote for a picture 25 times. After 25 votes the page will display bar graph with local storage for views and picks. Salmon Cookies was my first time dipping my toes in DOM manipulation. I enjoyed the relationship and was great point to get used to that in React.",
+      "images": ["images/Odd_Products.png", "images/Salmon_Cookies.png"],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "DefOpenSource",
+      "title": "Front-End Developer",
+      "years": "10.2019 - present",
+      "mainTech": ["Angular 8/9/10"],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "EF Core",
+        ".NET Core",
+        "SignalR",
+        "Angular Material"
+      ]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Intern",
+      "years": "01.2018 - 09.2019",
+      "mainTech": ["Angular 7/8"],
+      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+    }
+  ]
+}
